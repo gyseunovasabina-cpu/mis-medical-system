@@ -40,7 +40,7 @@ Docker / docker-compose
 
 📦 Установка и запуск проекта
 1. Клонирование:
-git clone https://github.com/<ВАШ_НИК>/mis-medical-system.git
+git clone https://github.com/<gyseunovasabina-cpu>/mis-medical-system.git
 cd mis-medical-system
 
 🐳 Запуск проекта через Docker
